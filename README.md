@@ -22,7 +22,6 @@ This project helps users track their income, expenses, and savings with clean UI
   * Highest spending month
   * Average expense
   * Top 3 categories
-  * Month-wise comparison (% change)
 
 ---
 
@@ -74,7 +73,10 @@ npm run dev
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
+<img width="1506" height="620" alt="Screenshot 2026-04-05 165751" src="https://github.com/user-attachments/assets/803be539-565f-49be-867b-ceb6dc36a564" />
+<img width="1357" height="883" alt="Screenshot 2026-04-05 165815" src="https://github.com/user-attachments/assets/68ffd500-6ae6-4ef6-82c7-03bf55a1bf4c" />
+
+<img width="1442" height="892" alt="Screenshot 2026-04-05 165851" src="https://github.com/user-attachments/assets/a6c3905e-941b-4f60-8448-b478992d4147" />
 
 ---
 
@@ -91,7 +93,7 @@ npm run dev
 ## 🙋‍♀️ Author
 
 **Roshni Nimmala**
-Aspiring Full Stack Developer 🚀
+
 
 ---
 
